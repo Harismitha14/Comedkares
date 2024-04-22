@@ -1,4 +1,4 @@
-# Code for automated sorting system
+# Code for automated sorting system for industrial processes
 import cv2
 import RPi.GPIO as GPIO
 import time
